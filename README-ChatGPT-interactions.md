@@ -73,6 +73,6 @@ This repository demonstrates how I developed a **fully functional Subscription**
 
 NOTE: Human-edited text originally produced by ChatGPT with the following prompts:
 
-> Can you write a short blog post enumerating how I prompted you to reach the final version of the contract?
-> I want the previous text in README friendly format.
+1) Can you write a short blog post enumerating how I prompted you to reach the final version of the contract?
+2) I want the previous text in README friendly format.
 
