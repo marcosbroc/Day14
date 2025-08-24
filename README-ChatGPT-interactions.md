@@ -1,4 +1,4 @@
-# SubscriptionManager Solidity Contract
+# Subscription Solidity Contract
 
 This repository demonstrates how I developed a **fully functional Subscription** contract in Solidity through an iterative learning process with ChatGPT. It includes subscription handling, monthly payments, refunds, and security best practices.
 
